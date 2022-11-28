@@ -1,4 +1,4 @@
-# 🇨🇭 Swiss OS
+# Swiss OS
 Swiss OS main repository.
 
 ## Donate
